@@ -1,0 +1,8 @@
+STUDIO PIPELINE NAMING CONVENTIONS:
+All Blender scene files MUST fullow the following naming structure:
+[PROJECT_CODE]_[SEQUENCE]_[SHOT]_[DEPARTMENT]_v[VERSION].blend
+
+Example for Project 'CYBORG', Sequence 01, Shot 10, Layout Dept, Version 1:
+CYB_sq01_sh010_LAY_v001.blend
+
+Never use generic names like "shot_01.blend" or "temp.blend".

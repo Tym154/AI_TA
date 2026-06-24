@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+langgraph>=0.0.30
+langchain-core>=0.1.30
+langchain-anthropic>=0.1.4
+python-dotenv>=1.0.1
