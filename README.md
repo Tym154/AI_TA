@@ -72,7 +72,7 @@ When a user submits a prompt (e.g., *"Block out a sci-fi scene with our cyborg"*
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Tym154/AI_TA.git](https://github.com/Tym154/AI_TA.git)
+git clone https://github.com/Tym154/AI_TA.git
 cd AT-TA
 
 ```
